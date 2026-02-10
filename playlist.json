@@ -2,17 +2,10 @@
   "delay_before_start": 30,
   "interval": 8,
   "images": [
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/current-comp.png",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/current-standings.png",
+    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/1.png",
+    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/2.png",
 
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/season-comp.png",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/season-standings.png",
-
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/underground-logo.png",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/underground-join.png",
-
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/cali-swing.png",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/practice-bundles.png",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/urban-golf-at-home.png"
+    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/3.png",
+   
   ]
 }
