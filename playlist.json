@@ -2,10 +2,12 @@
   "delay_before_start": 30,
   "interval": 8,
   "images": [
+    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/UCLFinal.png",
     "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/NewBundle.jpg",
     "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/Major.jpg?v=2",
     "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/USOPEN.jpg",
     "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/WorldCup.jpg",
-    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/UGatHome.jpg"
+    "https://raw.githubusercontent.com/JCH-UG/urban-golf-slideshow/main/UGatHome.png
+   "
   ]
 }
